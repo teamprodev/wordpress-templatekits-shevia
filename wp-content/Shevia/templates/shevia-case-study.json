@@ -1,0 +1,1691 @@
+{
+    "version": "0.4",
+    "title": "Shevia-Case Study",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "45a6a6c4",
+            "settings": {
+                "gap": "wider",
+                "structure": "20",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "",
+                    "id": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_size": "cover"
+            },
+            "elements": [
+                {
+                    "id": "1fcf8d3c",
+                    "settings": {
+                        "_column_size": "50",
+                        "content_position": "center",
+                        "background_background": "classic",
+                        "background_motion_fx_motion_fx_scrolling": "yes",
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=secondary"
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "96",
+                            "right": "30",
+                            "bottom": "96",
+                            "left": "30",
+                            "isLinked": ""
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "48",
+                            "right": "30",
+                            "bottom": "48",
+                            "left": "30",
+                            "isLinked": ""
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "3287c05f",
+                            "settings": {
+                                "width": {
+                                    "unit": "%",
+                                    "size": "40",
+                                    "sizes": []
+                                },
+                                "align": "center",
+                                "look": "line_text",
+                                "text": "Quisque velit",
+                                "html_tag": "div",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=c984dcf"
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": "50",
+                                    "sizes": []
+                                },
+                                "gap": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "564db824",
+                            "settings": {
+                                "title": "case study",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=1f86ad6"
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "header_size": "h1",
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d0ba045",
+                            "settings": {
+                                "__dynamic__": {
+                                    "title": "[elementor-tag id=\"\" name=\"archive-title\" settings=\"%7B%22include_context%22%3A%22yes%22%2C%22before%22%3A%22%22%2C%22after%22%3A%22%22%2C%22fallback%22%3A%22%22%7D\"]"
+                                },
+                                "title": "Add Your Heading Text Here",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "theme-archive-title",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "442f2d05",
+                            "settings": {
+                                "align": "center",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=1f86ad6"
+                                },
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "5b5b8174",
+                    "settings": {
+                        "_column_size": "50",
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "http:\/\/tkpro-demos.envalab.com\/22\/wp-content\/uploads\/sites\/33\/2021\/11\/Image-P7QTJ8G.jpg",
+                            "id": "200",
+                            "alt": "",
+                            "source": "library"
+                        },
+                        "background_position": "center center",
+                        "background_size": "cover"
+                    },
+                    "elements": [
+                        {
+                            "id": "7e3303ed",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": "400",
+                                    "sizes": []
+                                },
+                                "space_tablet": {
+                                    "unit": "px",
+                                    "size": "300",
+                                    "sizes": []
+                                },
+                                "space_mobile": {
+                                    "unit": "px",
+                                    "size": "200",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "72e11b70",
+            "settings": {
+                "gap": "wider",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "0",
+                    "bottom": "96",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=1f86ad6"
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "1e3fac77",
+                    "settings": {
+                        "_column_size": "100"
+                    },
+                    "elements": [
+                        {
+                            "id": "76b76ab2",
+                            "settings": {
+                                "content_width": {
+                                    "unit": "px",
+                                    "size": "804",
+                                    "sizes": []
+                                },
+                                "gap": "wider"
+                            },
+                            "elements": [
+                                {
+                                    "id": "4154605",
+                                    "settings": {
+                                        "_column_size": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5ca336b",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "32",
+                                                    "sizes": []
+                                                },
+                                                "align": "center",
+                                                "look": "line_text",
+                                                "text": "our process",
+                                                "html_tag": "div",
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=primary",
+                                                    "text_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=c984dcf"
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": "30",
+                                                    "sizes": []
+                                                },
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": "75",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "657f1182",
+                                            "settings": {
+                                                "title": "We Build Your Enterprise\nWeb &amp; Mobile Apps",
+                                                "align": "center",
+                                                "_animation": "fadeInDown"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "27aa575a",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "21fc03ee",
+                                    "settings": {
+                                        "_column_size": "25",
+                                        "_inline_size_tablet": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7b9161b6",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-envelope2",
+                                                    "library": "ekiticons"
+                                                },
+                                                "title_text": "Business Enquiry",
+                                                "description_text": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo",
+                                                "title_size": "h4",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "35",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=primary"
+                                                },
+                                                "view": "stacked",
+                                                "text_align": "left",
+                                                "_animation": "fadeInDown",
+                                                "text_align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2697e383",
+                                    "settings": {
+                                        "_column_size": "25",
+                                        "_inline_size_tablet": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "15385f48",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-paper-plane",
+                                                    "library": "ekiticons"
+                                                },
+                                                "title_text": "Sprint Zero",
+                                                "description_text": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo",
+                                                "title_size": "h4",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "33",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=primary"
+                                                },
+                                                "view": "framed",
+                                                "hover_animation": "shrink",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": "1"
+                                                },
+                                                "text_align": "left",
+                                                "_animation": "fadeInDown",
+                                                "text_align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "72c8718f",
+                                    "settings": {
+                                        "_column_size": "25",
+                                        "_inline_size_tablet": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4939153d",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-rocket",
+                                                    "library": "ekiticons"
+                                                },
+                                                "title_text": "Development",
+                                                "description_text": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo",
+                                                "title_size": "h4",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "33",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=primary"
+                                                },
+                                                "view": "framed",
+                                                "hover_animation": "shrink",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": "1"
+                                                },
+                                                "text_align": "left",
+                                                "_animation": "fadeInDown",
+                                                "text_align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2a55dc73",
+                                    "settings": {
+                                        "_column_size": "25",
+                                        "_inline_size_tablet": "50"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "33b4385a",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-idea1",
+                                                    "library": "ekiticons"
+                                                },
+                                                "title_text": "Support Development",
+                                                "description_text": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vivamus magna justo",
+                                                "title_size": "h4",
+                                                "icon_space": {
+                                                    "unit": "px",
+                                                    "size": "12",
+                                                    "sizes": []
+                                                },
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "33",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=primary"
+                                                },
+                                                "view": "framed",
+                                                "hover_animation": "shrink",
+                                                "border_width": {
+                                                    "unit": "px",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": "1"
+                                                },
+                                                "text_align": "left",
+                                                "_animation": "fadeInDown",
+                                                "text_align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "9b32b89",
+            "settings": {
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "96",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "structure": "20",
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=9bed8f9"
+                },
+                "gap": "wider",
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "790c3bfa",
+                    "settings": {
+                        "_column_size": "50",
+                        "margin": {
+                            "unit": "%",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": ""
+                        },
+                        "_inline_size_tablet": "60"
+                    },
+                    "elements": [
+                        {
+                            "id": "113f92ef",
+                            "settings": {
+                                "width": {
+                                    "unit": "%",
+                                    "size": "25",
+                                    "sizes": []
+                                },
+                                "align": "left",
+                                "look": "line_text",
+                                "text": "Case Study",
+                                "html_tag": "div",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary",
+                                    "text_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=c984dcf"
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": "30",
+                                    "sizes": []
+                                },
+                                "text_align": "right",
+                                "gap": {
+                                    "unit": "px",
+                                    "size": "2",
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "16",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_animation": "fadeInDown",
+                                "align_mobile": "center",
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "47",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4599c9b8",
+                            "settings": {
+                                "title": "Featured Case Studies",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "_animation": "fadeInDown",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "268b28f",
+                    "settings": {
+                        "_column_size": "50",
+                        "content_position": "bottom",
+                        "align": "flex-end",
+                        "_inline_size_tablet": "40",
+                        "align_mobile": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "21f98937",
+                            "settings": {
+                                "text": "All Case study",
+                                "size": "md",
+                                "selected_icon": {
+                                    "value": "icon icon-arrow-right",
+                                    "library": "ekiticons"
+                                },
+                                "icon_indent": {
+                                    "unit": "px",
+                                    "size": "10",
+                                    "sizes": []
+                                },
+                                "_element_width": "auto",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=f03f58e",
+                                    "button_text_color": "globals\/colors?id=primary",
+                                    "hover_color": "globals\/colors?id=df0e136"
+                                },
+                                "_animation": "fadeInDown"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "26229aba",
+            "settings": {
+                "structure": "20",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "128",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=9bed8f9"
+                }
+            },
+            "elements": [
+                {
+                    "id": "761776a6",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "40",
+                        "animation": "fadeInDown"
+                    },
+                    "elements": [
+                        {
+                            "id": "3078ee82",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "",
+                                    "library": ""
+                                },
+                                "title_text_a": "Mobile Development",
+                                "description_text_a": "Servicio Co",
+                                "background_a_background": "classic",
+                                "background_a_image": {
+                                    "url": "http:\/\/tkpro-demos.envalab.com\/22\/wp-content\/uploads\/sites\/33\/2021\/11\/Image-PAB3KL8.jpg",
+                                    "id": "202",
+                                    "alt": "",
+                                    "source": "library"
+                                },
+                                "background_a_position": "center center",
+                                "background_a_size": "cover",
+                                "background_overlay_a": "#1C23473B",
+                                "title_text_b": "Servicio Company",
+                                "description_text_b": "Cras ultricies ligula sed magna dictum porta. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin molestie malesuada. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem.",
+                                "button_text": "Detail",
+                                "background_b_background": "classic",
+                                "height": {
+                                    "unit": "px",
+                                    "size": "445",
+                                    "sizes": []
+                                },
+                                "flip_direction": "left",
+                                "flip_3d": "elementor-flip-box--3d",
+                                "alignment_a": "left",
+                                "vertical_position_a": "bottom",
+                                "icon_primary_color": "#FFFFFF",
+                                "title_spacing_a": {
+                                    "unit": "px",
+                                    "size": "0",
+                                    "sizes": []
+                                },
+                                "title_color_a": "#FFFFFF",
+                                "title_typography_a_typography": "custom",
+                                "title_typography_a_font_family": "Barlow",
+                                "title_typography_a_font_size": {
+                                    "unit": "px",
+                                    "size": "13",
+                                    "sizes": []
+                                },
+                                "title_typography_a_font_weight": "600",
+                                "title_typography_a_text_transform": "uppercase",
+                                "title_typography_a_line_height": {
+                                    "unit": "em",
+                                    "size": "1.5",
+                                    "sizes": []
+                                },
+                                "title_typography_a_letter_spacing": {
+                                    "unit": "px",
+                                    "size": "3",
+                                    "sizes": []
+                                },
+                                "description_color_a": "#FFFFFF",
+                                "description_typography_a_typography": "custom",
+                                "description_typography_a_font_family": "Barlow",
+                                "description_typography_a_font_size": {
+                                    "unit": "px",
+                                    "size": "24",
+                                    "sizes": []
+                                },
+                                "description_typography_a_font_weight": "500",
+                                "description_typography_a_text_transform": "capitalize",
+                                "description_typography_a_line_height": {
+                                    "unit": "em",
+                                    "size": "1.3",
+                                    "sizes": []
+                                },
+                                "vertical_position_b": "middle",
+                                "button_size": "md",
+                                "button_border_width": {
+                                    "unit": "px",
+                                    "size": "0",
+                                    "sizes": []
+                                },
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "20",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "__globals__": {
+                                    "icon_primary_color": "globals\/colors?id=1f86ad6",
+                                    "title_color_a": "globals\/colors?id=1f86ad6",
+                                    "title_typography_a_typography": "globals\/typography?id=secondary",
+                                    "description_color_a": "globals\/colors?id=1f86ad6",
+                                    "description_typography_a_typography": "globals\/typography?id=7464361",
+                                    "background_overlay_a": "",
+                                    "description_color_b": "globals\/colors?id=1f86ad6",
+                                    "title_color_b": "globals\/colors?id=1f86ad6",
+                                    "title_typography_b_typography": "globals\/typography?id=d0bd4e7",
+                                    "button_background_color": "globals\/colors?id=primary",
+                                    "button_hover_background_color": "globals\/colors?id=df0e136",
+                                    "background_b_color": "globals\/colors?id=secondary"
+                                },
+                                "height_tablet": {
+                                    "unit": "px",
+                                    "size": "372",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "flip-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "48c2f47d",
+                            "settings": {
+                                "background_background": "classic",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=primary"
+                                },
+                                "animation": "fadeInDown"
+                            },
+                            "elements": [
+                                {
+                                    "id": "3bd006a3",
+                                    "settings": {
+                                        "_column_size": "100",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "30",
+                                            "right": "30",
+                                            "bottom": "30",
+                                            "left": "30",
+                                            "isLinked": "1"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "324f43d2",
+                                            "settings": {
+                                                "blockquote_skin": "quotation",
+                                                "alignment": "center",
+                                                "blockquote_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Lorem ipsum dolor sit amet consectetur adipiscing elit dolor",
+                                                "author_name": "Sturidge",
+                                                "tweet_button": "",
+                                                "tweet_button_label": "Tweet",
+                                                "__globals__": {
+                                                    "content_text_color": "globals\/colors?id=1f86ad6",
+                                                    "author_text_color": "globals\/colors?id=1f86ad6",
+                                                    "quote_text_color": "globals\/colors?id=1f86ad6"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "blockquote",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                },
+                {
+                    "id": "466d7613",
+                    "settings": {
+                        "_column_size": "50",
+                        "_inline_size": "60",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": "1"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "60686355",
+                            "settings": {
+                                "animation": "fadeInDown"
+                            },
+                            "elements": [
+                                {
+                                    "id": "6f01970c",
+                                    "settings": {
+                                        "_column_size": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7b5444e6",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "Web Development",
+                                                "description_text_a": "Hovenvalley ",
+                                                "background_a_background": "classic",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/22\/wp-content\/uploads\/sites\/33\/2021\/11\/Image-DBCCQ2H.jpg",
+                                                    "id": "191",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "background_overlay_a": "#1C23473B",
+                                                "title_text_b": "Hovenvalley",
+                                                "description_text_b": "Cras ultricies ligula sed magna dictum porta. Vivamus suscipit tortor eget felis porttitor volutpat.",
+                                                "button_text": "Detail",
+                                                "background_b_background": "classic",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "332",
+                                                    "sizes": []
+                                                },
+                                                "flip_direction": "left",
+                                                "flip_3d": "elementor-flip-box--3d",
+                                                "alignment_a": "left",
+                                                "vertical_position_a": "bottom",
+                                                "icon_primary_color": "#FFFFFF",
+                                                "title_spacing_a": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "title_color_a": "#FFFFFF",
+                                                "title_typography_a_typography": "custom",
+                                                "title_typography_a_font_family": "Barlow",
+                                                "title_typography_a_font_size": {
+                                                    "unit": "px",
+                                                    "size": "13",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_a_font_weight": "600",
+                                                "title_typography_a_text_transform": "uppercase",
+                                                "title_typography_a_line_height": {
+                                                    "unit": "em",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_a_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "3",
+                                                    "sizes": []
+                                                },
+                                                "description_color_a": "#FFFFFF",
+                                                "description_typography_a_typography": "custom",
+                                                "description_typography_a_font_family": "Barlow",
+                                                "description_typography_a_font_size": {
+                                                    "unit": "px",
+                                                    "size": "24",
+                                                    "sizes": []
+                                                },
+                                                "description_typography_a_font_weight": "500",
+                                                "description_typography_a_text_transform": "capitalize",
+                                                "description_typography_a_line_height": {
+                                                    "unit": "em",
+                                                    "size": "1.3",
+                                                    "sizes": []
+                                                },
+                                                "vertical_position_b": "middle",
+                                                "button_size": "md",
+                                                "button_border_width": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_primary_color": "globals\/colors?id=1f86ad6",
+                                                    "title_color_a": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_a_typography": "globals\/typography?id=secondary",
+                                                    "description_color_a": "globals\/colors?id=1f86ad6",
+                                                    "description_typography_a_typography": "globals\/typography?id=7464361",
+                                                    "background_overlay_a": "",
+                                                    "description_color_b": "globals\/colors?id=1f86ad6",
+                                                    "title_color_b": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_b_typography": "globals\/typography?id=d0bd4e7",
+                                                    "button_background_color": "globals\/colors?id=primary",
+                                                    "button_hover_background_color": "globals\/colors?id=df0e136",
+                                                    "background_b_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "55e5a748",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "557676f0",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "50",
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3690738b",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "IT Consulting",
+                                                "description_text_a": "Gadgetfix",
+                                                "background_a_background": "classic",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/22\/wp-content\/uploads\/sites\/33\/2021\/11\/Image-67G7AEF.jpg",
+                                                    "id": "1980",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "background_overlay_a": "#1C23473B",
+                                                "title_text_b": "Gadgetfix",
+                                                "description_text_b": "Cras ultricies ligula sed magna dictum porta. Vivamus suscipit tortor eget felis porttitor volutpat",
+                                                "button_text": "Detail",
+                                                "background_b_background": "classic",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "382",
+                                                    "sizes": []
+                                                },
+                                                "flip_direction": "left",
+                                                "flip_3d": "elementor-flip-box--3d",
+                                                "alignment_a": "left",
+                                                "vertical_position_a": "bottom",
+                                                "icon_primary_color": "#FFFFFF",
+                                                "title_spacing_a": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "title_color_a": "#FFFFFF",
+                                                "title_typography_a_typography": "custom",
+                                                "title_typography_a_font_family": "Barlow",
+                                                "title_typography_a_font_size": {
+                                                    "unit": "px",
+                                                    "size": "13",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_a_font_weight": "600",
+                                                "title_typography_a_text_transform": "uppercase",
+                                                "title_typography_a_line_height": {
+                                                    "unit": "em",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_a_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "3",
+                                                    "sizes": []
+                                                },
+                                                "description_color_a": "#FFFFFF",
+                                                "description_typography_a_typography": "custom",
+                                                "description_typography_a_font_family": "Barlow",
+                                                "description_typography_a_font_size": {
+                                                    "unit": "px",
+                                                    "size": "24",
+                                                    "sizes": []
+                                                },
+                                                "description_typography_a_font_weight": "500",
+                                                "description_typography_a_text_transform": "capitalize",
+                                                "description_typography_a_line_height": {
+                                                    "unit": "em",
+                                                    "size": "1.3",
+                                                    "sizes": []
+                                                },
+                                                "vertical_position_b": "middle",
+                                                "button_size": "md",
+                                                "button_border_width": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_primary_color": "globals\/colors?id=1f86ad6",
+                                                    "title_color_a": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_a_typography": "globals\/typography?id=secondary",
+                                                    "description_color_a": "globals\/colors?id=1f86ad6",
+                                                    "description_typography_a_typography": "globals\/typography?id=7464361",
+                                                    "background_overlay_a": "",
+                                                    "description_color_b": "globals\/colors?id=1f86ad6",
+                                                    "title_color_b": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_b_typography": "globals\/typography?id=7464361",
+                                                    "button_background_color": "globals\/colors?id=primary",
+                                                    "button_hover_background_color": "globals\/colors?id=df0e136",
+                                                    "background_b_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "5f93b4fd",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "50",
+                                        "animation": "fadeInDown"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7f0b58c2",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "",
+                                                    "library": ""
+                                                },
+                                                "title_text_a": "Web Development",
+                                                "description_text_a": "Insigne",
+                                                "background_a_background": "classic",
+                                                "background_a_image": {
+                                                    "url": "http:\/\/tkpro-demos.envalab.com\/22\/wp-content\/uploads\/sites\/33\/2021\/11\/Image-DL38KYN.jpg",
+                                                    "id": "1981",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "background_a_position": "center center",
+                                                "background_a_size": "cover",
+                                                "background_overlay_a": "#1C23473B",
+                                                "title_text_b": "Insigne",
+                                                "description_text_b": "Cras ultricies ligula sed magna dictum porta. Vivamus suscipit tortor eget felis porttitor volutpat",
+                                                "button_text": "Detail",
+                                                "background_b_background": "classic",
+                                                "height": {
+                                                    "unit": "px",
+                                                    "size": "382",
+                                                    "sizes": []
+                                                },
+                                                "flip_direction": "left",
+                                                "flip_3d": "elementor-flip-box--3d",
+                                                "alignment_a": "left",
+                                                "vertical_position_a": "bottom",
+                                                "icon_primary_color": "#FFFFFF",
+                                                "title_spacing_a": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "title_color_a": "#FFFFFF",
+                                                "title_typography_a_typography": "custom",
+                                                "title_typography_a_font_family": "Barlow",
+                                                "title_typography_a_font_size": {
+                                                    "unit": "px",
+                                                    "size": "13",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_a_font_weight": "600",
+                                                "title_typography_a_text_transform": "uppercase",
+                                                "title_typography_a_line_height": {
+                                                    "unit": "em",
+                                                    "size": "1.5",
+                                                    "sizes": []
+                                                },
+                                                "title_typography_a_letter_spacing": {
+                                                    "unit": "px",
+                                                    "size": "3",
+                                                    "sizes": []
+                                                },
+                                                "description_color_a": "#FFFFFF",
+                                                "description_typography_a_typography": "custom",
+                                                "description_typography_a_font_family": "Barlow",
+                                                "description_typography_a_font_size": {
+                                                    "unit": "px",
+                                                    "size": "24",
+                                                    "sizes": []
+                                                },
+                                                "description_typography_a_font_weight": "500",
+                                                "description_typography_a_text_transform": "capitalize",
+                                                "description_typography_a_line_height": {
+                                                    "unit": "em",
+                                                    "size": "1.3",
+                                                    "sizes": []
+                                                },
+                                                "vertical_position_b": "middle",
+                                                "button_size": "md",
+                                                "button_border_width": {
+                                                    "unit": "px",
+                                                    "size": "0",
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_primary_color": "globals\/colors?id=1f86ad6",
+                                                    "title_color_a": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_a_typography": "globals\/typography?id=secondary",
+                                                    "description_color_a": "globals\/colors?id=1f86ad6",
+                                                    "description_typography_a_typography": "globals\/typography?id=7464361",
+                                                    "background_overlay_a": "",
+                                                    "description_color_b": "globals\/colors?id=1f86ad6",
+                                                    "title_color_b": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_b_typography": "globals\/typography?id=7464361",
+                                                    "button_background_color": "globals\/colors?id=primary",
+                                                    "button_hover_background_color": "globals\/colors?id=df0e136",
+                                                    "background_b_color": "globals\/colors?id=secondary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "flip-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        },
+        {
+            "id": "79d2ab8d",
+            "settings": {
+                "gap": "wider",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": ""
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=1f86ad6"
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "4898cf2b",
+                    "settings": {
+                        "_column_size": "100",
+                        "content_position": "bottom"
+                    },
+                    "elements": [
+                        {
+                            "id": "79f8b3ff",
+                            "settings": {
+                                "gap": "wider",
+                                "structure": "30",
+                                "background_background": "classic",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "-96",
+                                    "right": "0",
+                                    "bottom": "24",
+                                    "left": "0",
+                                    "isLinked": ""
+                                },
+                                "z_index": "5",
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "123fbe55",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "content_position": "center",
+                                        "content_position_tablet": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "65b31703",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-map-marker",
+                                                    "library": "ekiticons"
+                                                },
+                                                "view": "stacked",
+                                                "title_text": "Upton Park ",
+                                                "description_text": "Birmingham",
+                                                "position": "left",
+                                                "title_size": "div",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "24",
+                                                    "sizes": []
+                                                },
+                                                "content_vertical_alignment": "middle",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=primary",
+                                                    "title_color": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_typography": "globals\/typography?id=42953b3",
+                                                    "description_color": "globals\/colors?id=text",
+                                                    "description_typography_typography": "globals\/typography?id=text",
+                                                    "secondary_color": "globals\/colors?id=1f86ad6"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "3e4fdd14",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "11ffdcba",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-email",
+                                                    "library": "ekiticons"
+                                                },
+                                                "view": "stacked",
+                                                "title_text": "Hello@Shevia.xom",
+                                                "description_text": "Email Contact",
+                                                "position": "left",
+                                                "title_size": "div",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "24",
+                                                    "sizes": []
+                                                },
+                                                "content_vertical_alignment": "middle",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=primary",
+                                                    "title_color": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_typography": "globals\/typography?id=42953b3",
+                                                    "description_color": "globals\/colors?id=text",
+                                                    "description_typography_typography": "globals\/typography?id=text",
+                                                    "secondary_color": "globals\/colors?id=1f86ad6"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2cbb2748",
+                                    "settings": {
+                                        "_column_size": "33",
+                                        "content_position": "center"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "516eb425",
+                                            "settings": {
+                                                "selected_icon": {
+                                                    "value": "icon icon-phone-handset",
+                                                    "library": "ekiticons"
+                                                },
+                                                "view": "stacked",
+                                                "title_text": "+14 4577 8901",
+                                                "description_text": "Hotline Service",
+                                                "position": "left",
+                                                "title_size": "div",
+                                                "icon_size": {
+                                                    "unit": "px",
+                                                    "size": "24",
+                                                    "sizes": []
+                                                },
+                                                "content_vertical_alignment": "middle",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "__globals__": {
+                                                    "primary_color": "globals\/colors?id=primary",
+                                                    "title_color": "globals\/colors?id=1f86ad6",
+                                                    "title_typography_typography": "globals\/typography?id=42953b3",
+                                                    "description_color": "globals\/colors?id=text",
+                                                    "description_typography_typography": "globals\/typography?id=text",
+                                                    "secondary_color": "globals\/colors?id=1f86ad6"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-box",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        },
+                        {
+                            "id": "63252346",
+                            "settings": {
+                                "gap": "wider",
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "2aa5e3c3",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "40",
+                                        "_inline_size_tablet": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4a14d4b3",
+                                            "settings": {
+                                                "width": {
+                                                    "unit": "%",
+                                                    "size": "40",
+                                                    "sizes": []
+                                                },
+                                                "align": "left",
+                                                "look": "line_text",
+                                                "text": "get started",
+                                                "html_tag": "div",
+                                                "__globals__": {
+                                                    "color": "globals\/colors?id=primary",
+                                                    "text_color": "globals\/colors?id=primary",
+                                                    "typography_typography": "globals\/typography?id=c984dcf"
+                                                },
+                                                "width_tablet": {
+                                                    "unit": "%",
+                                                    "size": "25",
+                                                    "sizes": []
+                                                },
+                                                "text_align": "right",
+                                                "gap": {
+                                                    "unit": "px",
+                                                    "size": "2",
+                                                    "sizes": []
+                                                },
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "align_mobile": "center",
+                                                "width_mobile": {
+                                                    "unit": "%",
+                                                    "size": "60",
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "divider",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5f81bbb3",
+                                            "settings": {
+                                                "title": "Get started &amp; tell us about your requirements\n\n\n\n",
+                                                "align": "left",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "_animation": "fadeInDown",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "3ef8050",
+                                            "settings": {
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": ""
+                                                },
+                                                "align": "left",
+                                                "_animation": "fadeInDown",
+                                                "align_mobile": "center"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4eeb5d1d",
+                                    "settings": {
+                                        "_column_size": "50",
+                                        "_inline_size": "60",
+                                        "content_position": "center",
+                                        "_inline_size_tablet": "100"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "4530caa5",
+                                            "settings": {
+                                                "form_name": "New Form",
+                                                "form_fields": [
+                                                    {
+                                                        "custom_id": "name",
+                                                        "field_label": "Name",
+                                                        "placeholder": "Name",
+                                                        "width": "50",
+                                                        "_id": "6cb18ba"
+                                                    },
+                                                    {
+                                                        "custom_id": "email",
+                                                        "field_type": "email",
+                                                        "required": "true",
+                                                        "field_label": "Email",
+                                                        "placeholder": "Email",
+                                                        "width": "50",
+                                                        "_id": "19e4909"
+                                                    },
+                                                    {
+                                                        "custom_id": "field_26654f9",
+                                                        "field_label": "Subject",
+                                                        "placeholder": "Subject",
+                                                        "_id": "26654f9"
+                                                    },
+                                                    {
+                                                        "custom_id": "message",
+                                                        "field_type": "textarea",
+                                                        "field_label": "Message",
+                                                        "placeholder": "Message",
+                                                        "_id": "69d1963"
+                                                    }
+                                                ],
+                                                "input_size": "md",
+                                                "show_labels": "",
+                                                "button_size": "md",
+                                                "step_next_label": "Next",
+                                                "step_previous_label": "Previous",
+                                                "button_text": "Send",
+                                                "email_content": "[all-fields]",
+                                                "email_content_2": "[all-fields]",
+                                                "success_message": "The form was sent successfully.",
+                                                "error_message": "An error occurred.",
+                                                "required_field_message": "This field is required.",
+                                                "invalid_message": "There's something wrong. The form is invalid.",
+                                                "row_gap": {
+                                                    "unit": "px",
+                                                    "size": "18",
+                                                    "sizes": []
+                                                },
+                                                "button_align": "start",
+                                                "button_align_mobile": "stretch"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "form",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": "1",
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": "1",
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": "",
+                    "elType": "column"
+                }
+            ],
+            "isInner": "",
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "template": "elementor_header_footer"
+    }
+}
